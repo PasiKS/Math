@@ -1,3 +1,5 @@
 # Math
-lisäys
-2. lisäys
+
+Hiekkalaatikko.
+
+Githubin opiskelemiseen alkaen A:sta...
